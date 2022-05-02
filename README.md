@@ -1,3 +1,3 @@
 Data set:
-https://www.kaggle.com/competitions/unifesp-x-ray-body-part-classifier/rules
+https://www.kaggle.com/competitions/tabular-playground-series-jun-2021/data
 
